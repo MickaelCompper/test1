@@ -10,6 +10,10 @@
         <h1>Tuto git et github</h1>
 
         <h2>Liste des paragraphes</h2>
+        
+        <h3>Salut tout le monde</h3>
+        
+        <h4>Sous-titre</h4>
 
         <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aliquam dicta fugiat facere quae quo. Pariatur, quos, tempora, similique, illum molestiae quae illo voluptate cum harum recusandae obcaecati inventore laudantium sapiente?</p>
         <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Porro totam at nostrum magnam nihil officiis vero iste qui quasi eum! Porro, eius illo quisquam iusto facere aperiam cumque consequatur nostrum!</p>
